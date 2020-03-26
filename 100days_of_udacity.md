@@ -1,3 +1,10 @@
 # Study Log: Udacity Cloud DevOps Engineer Nanodegree
 #### Day 02: March 23 2020
 * Begin to work on the first project, Deploy Static Website on AWS
+
+#### Day 03: March 24 2020
+* Reading AWS Ramp-Up guide Phase1 (https://d1.awsstatic.com/training-and-certification/ramp-up-guides/RampUp_Architect_102019_final.pdf)
+
+#### Day 04: March 26 2020 
+* Need to review from the basics..., starting to review Cloud Fundamentals lectures
+* Lesson 1: Cloud computing 
