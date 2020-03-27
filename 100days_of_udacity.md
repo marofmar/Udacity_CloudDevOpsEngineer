@@ -8,3 +8,7 @@
 #### Day 04: March 26 2020 
 * Need to review from the basics..., starting to review Cloud Fundamentals lectures
 * Lesson 1: Cloud computing 
+
+#### Day 05: March 27 2020
+* Working on Lesson2: Foundational & Compute service
+* I have took the same lectures few weeks ago, but how can I forget this much in that short time period! In short, I am LEARNING! 
