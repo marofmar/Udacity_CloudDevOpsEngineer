@@ -13,8 +13,11 @@
 * Working on Lesson2: Foundational & Compute service
 * I have took the same lectures few weeks ago, but how can I forget this much in that short time period! In short, I am LEARNING! 
 
-#### Day 06: March 29 2020
+#### Day 06: March 28 2020
 * Finished Lesson 2 and 3
 
-#### Day 07: March 30 2020 Sun
+#### Day 07: March 29 2020 Sun
 * Working on Lesson 4, Security
+
+#### Day 08: March 30 2020 Mon
+* Finished LEsson 4 and working on Lesson 5 
