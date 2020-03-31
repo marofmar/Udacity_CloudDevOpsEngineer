@@ -20,4 +20,21 @@
 * Working on Lesson 4, Security
 
 #### Day 08: March 30 2020 Mon
-* Finished LEsson 4 and working on Lesson 5 
+* Finished LEsson 4 Security and working on Lesson 5 Networking & Elasticity
+
+#### DAy 09: March 31 2020 Tue
+> Lesson 5
+* Wroking on Lesson 5: DNS, autoscaling, load balancnig, 
+* Route53: AWS Cloud Domain Name system. Also does health check
+* Elasticity: servers, DBs, App resources automatically scale up or down based on load - no need to buy up front 
+* Scale up (vertically  - assign higher RAM, IO, etc), Scale out (horizontally - adding more servers, etc)
+* EC2 Autoscaling (In EC2)
+* AWS Auto Scaling also exists apart from that of EC2 wihch works with Dynamo DB and so forth
+* Elastic Load Balancing - provides redundancy and performance (In EC2)
+
+> Lesson 6: Messaging & Containers
+* SNS: Simple Notification Service
+* SQS: Simple Queue Service , FIFO Queue when ordering is important
+* ECS: Elastic Container Service
+
+* Finished Lesson 6 and working on Lesson 7: AWS Management
