@@ -22,7 +22,7 @@
 #### Day 08: March 30 2020 Mon
 * Finished LEsson 4 Security and working on Lesson 5 Networking & Elasticity
 
-#### DAy 09: March 31 2020 Tue
+#### Day 09: March 31 2020 Tue
 > Lesson 5
 * Wroking on Lesson 5: DNS, autoscaling, load balancnig, 
 * Route53: AWS Cloud Domain Name system. Also does health check
@@ -38,3 +38,15 @@
 * ECS: Elastic Container Service
 
 * Finished Lesson 6 and working on Lesson 7: AWS Management
+
+#### Day10: April 1 2020 Wed
+> Lesson 7
+* Logging & Auditing in the Cloud - Visibility = > Cloud Trail
+* Cloud Trail: Log ins, services accessed, actions performed, parameters for the actions, responses returned (Cloud Trail in Management & Governance section)
+* Cloud Watch: a service that monitors resources and applications run on AWS (So, is it like the night-watch in GOT?!)
+* Cloud Watch does: Collect and track metrics, Collect and monitor logs, Set alarms and create triggers, React to changes, etc.
+* Infrastructure as Code
+* Cloud Formation: Infrastructure as Code Service provided by AWS, written in JSON or YAML
+* Lab - CloudWatch and CloudFormation
+* Command Line Interface (CLI)
+
