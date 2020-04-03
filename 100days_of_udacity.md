@@ -50,3 +50,9 @@
 * Lab - CloudWatch and CloudFormation
 * Command Line Interface (CLI)
 
+#### Day11: April 2 2020 Thur
+> Project: Deploy Static Website
+* Start!
+
+#### Day12: April 3 2020 Fri
+> I was charged more than 200 bucks,,,, from the account that I thought was in free tier... AWS...... Shocked.....
