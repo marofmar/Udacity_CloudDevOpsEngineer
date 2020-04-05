@@ -56,3 +56,7 @@
 
 #### Day12: April 3 2020 Fri
 > I was charged more than 200 bucks,,,, from the account that I thought was in free tier... AWS...... Shocked.....
+
+#### Day13: April 5 2020 Sun
+> For the AWS account, I contacted Suppor team, and they solved the problem perfectly! I love you AWS,,,,, have my heart please,,,! 
+* Let's get started Projet 1 !!!!!!
