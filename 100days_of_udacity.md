@@ -60,3 +60,8 @@
 #### Day13: April 5 2020 Sun
 > For the AWS account, I contacted Suppor team, and they solved the problem perfectly! I love you AWS,,,,, have my heart please,,,! 
 * Let's get started Projet 1 !!!!!!
+
+#### Day14: April 8 2020 Wed
+> To deploy static website on AWS (Project 1) 
+* Created and configured S3 bucket, distributed via CloudFront
+* Confirmed the page is accessible via web browser, and submitted the project file! 
