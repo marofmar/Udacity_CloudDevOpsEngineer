@@ -65,3 +65,16 @@
 > To deploy static website on AWS (Project 1) 
 * Created and configured S3 bucket, distributed via CloudFront
 * Confirmed the page is accessible via web browser, and submitted the project file! 
+
+#### Day15: April 10 2020 Fri
+> Started ch3. Deploy Infrastructure as Code
+* Started L1. Getting started with CloudFormation
+* DevOps = Development + Operation
+`
+DevOps is the combination of industry best practices, and set of tools that improve an organization’s ability to:
+•	Increase the speed of software delivery
+•	Increases the speed of software evolution
+•	Have better reliability of the software
+•	Have scalability using automation,
+•	Improved collaboration among teams. 
+`
