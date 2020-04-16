@@ -78,3 +78,23 @@ DevOps is the combination of industry best practices, and set of tools that impr
 •	Have scalability using automation,
 •	Improved collaboration among teams. 
 `
+
+#### Day 16: April 16 2020 Thur
+* DevOps tries to solve the following issues:
+`
+* Unpredictable deployments
+* Mismatched environements 
+* Configuration Drift
+`
+* One of the benefits of using DevOps is that it allows predictable deployments using automated scripts. 
+`
+> The most important practices are:
+
+* Continuous Integration / Continuous Delivery (CI/CD) - new features are automatically deployed with all the required dependencies.
+* Infrastructure as Code (IaaC) - configuration and management of cloud infrastructure using re-usable scripts.
+> Other prevalent practices are:
+* Microservices
+* Monitoring and Logging
+* Communication and Collaboration
+`
+* So, predictability is the number one benefit of DevOps, as we want to run things as automated as possible. 
