@@ -98,3 +98,16 @@ DevOps is the combination of industry best practices, and set of tools that impr
 * Communication and Collaboration
 `
 * So, predictability is the number one benefit of DevOps, as we want to run things as automated as possible. 
+
+#### Day 17: April 20 2020 Mon
+> L1-6
+* CloudFormation is a tool in AWS for managing, configuring and deploying infrastructure 
+> L1-7
+* IAM, Identity and Access Management
+
+#### Day 18: May 02 
+* Watched AWS reInvent 2019 via Youtube
+
+#### Day 19: Jul 14
+* Working on Lesson1 of 4. Building CI/CD Pipeline, Monitoring & Loggings
+ 
